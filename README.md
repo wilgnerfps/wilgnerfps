@@ -14,6 +14,8 @@
   <a href="https://wilgnersiqueira.pages.dev"><img src="https://img.shields.io/badge/Site-wilgnersiqueira.pages.dev-0D3143?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
   <a href="https://www.instagram.com/wilgner.siqueira/"><img src="https://img.shields.io/badge/Instagram-@wilgner.siqueira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/wilgnersiqueira.ia"><img src="https://img.shields.io/badge/Facebook-Wilgner%20Siqueira-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.linkedin.com/in/wilgnersiqueira"><img src="https://img.shields.io/badge/LinkedIn-wilgnersiqueira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/wilgner_ia"><img src="https://img.shields.io/badge/X-@wilgner__ia-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---
